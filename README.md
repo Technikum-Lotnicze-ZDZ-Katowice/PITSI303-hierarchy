@@ -2,4 +2,4 @@
 
 ![Kartkówka](Spr_01.png)
 
-![buttons](Buttons.PNG)
+![buttons](buttons.PNG)
