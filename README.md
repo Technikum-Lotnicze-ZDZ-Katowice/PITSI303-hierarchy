@@ -2,3 +2,5 @@
 
 ![Kartkówka](Spr_01.png)
 
+![buttons](butons.PNG)
+
