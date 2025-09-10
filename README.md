@@ -1,4 +1,4 @@
-# PITSI304-szablon
+# PITSI303-szablon
 
 ![Kartkówka](Spr_01.png)
 
