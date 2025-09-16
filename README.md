@@ -1,4 +1,20 @@
-# PITSI303-szablon
+# PITSI303-hierarchy
+
+
+### SUPERSCRIPT/SUBSCRIPTS
+
+### LISTS
+
+### TABLES
+
+### CSS - kaskadowość, dziedziczenie
+
+### ZADANIA
+
+#### ZAD30301 Wężykiem
+
+#### ZAD30302 Lists
+
 
 ![Kartkówka](Spr_01.png)
 
