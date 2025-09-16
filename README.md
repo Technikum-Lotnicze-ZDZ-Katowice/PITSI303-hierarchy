@@ -7,7 +7,7 @@
 
 ### TABLES
 
-### CSS - kaskadowość, dziedziczenie
+### CSS - kaskadowość, grupowanie, dziedziczenie
 
 ### ZADANIA
 
