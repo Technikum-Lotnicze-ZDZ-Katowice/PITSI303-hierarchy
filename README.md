@@ -3,6 +3,8 @@
 
 ### 1. SUPERSCRIPT/SUBSCRIPTS
 
+<sub>1</sub>2<sup>3</sup>
+
 ### 2. LISTS
 
 ### 3. TABLES
