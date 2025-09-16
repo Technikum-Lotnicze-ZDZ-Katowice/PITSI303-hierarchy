@@ -21,6 +21,8 @@ table, tbody, tr, td / th, colspan, rowspan
 
 #### ZAD30302 Lists
 
+#### ZAD30303 Table
+
 
 ![Kartkówka](Spr_01.png)
 
