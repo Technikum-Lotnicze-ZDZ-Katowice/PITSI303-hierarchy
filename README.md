@@ -4,6 +4,7 @@
 
 ![buttons](buttons.PNG)
 
+<!--
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -68,3 +69,5 @@
 </body>
 </html>
 ```
+-->
+
