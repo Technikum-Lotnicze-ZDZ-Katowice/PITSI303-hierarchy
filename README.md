@@ -7,7 +7,11 @@
 
 ### 2. LISTS
 
+li, ul, ol, dl
+
 ### 3. TABLES
+
+table, tbody, tr, td / th
 
 ### 4. CSS - kaskadowość, grupowanie, dziedziczenie
 
