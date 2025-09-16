@@ -1,15 +1,15 @@
 # PITSI303-hierarchy
 
 
-### SUPERSCRIPT/SUBSCRIPTS
+### 1. SUPERSCRIPT/SUBSCRIPTS
 
-### LISTS
+### 2. LISTS
 
-### TABLES
+### 3. TABLES
 
-### CSS - kaskadowość, grupowanie, dziedziczenie
+### 4. CSS - kaskadowość, grupowanie, dziedziczenie
 
-### ZADANIA
+### 5. ZADANIA
 
 #### ZAD30301 Wężykiem
 
