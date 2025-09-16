@@ -14,9 +14,9 @@ li, ul, ol, dl
 table, tbody, tr, td / th
 
 ### 4. CSS - kaskadowość, grupowanie, dziedziczenie
-
+---
 ### 5. ZADANIA
-
+---
 #### ZAD30301 Wężykiem
 
 #### ZAD30302 Lists
