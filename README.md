@@ -9,6 +9,27 @@
 
 li, ul, ol, dl
 
+```html
+    <ol type="i"> <!-- a, A, i, I -->
+        <li>Element listy 1</li>    
+        <li>Element listy 1</li>
+    </ol>
+
+    <ul type="square"> <!-- none, disc / square / circle -->
+        <li>Element listy 1</li>
+        <li>Element listy 2</li>
+        <li>Element listy 3</li>
+    </ul>        
+
+    <dl>
+        <dt>Hasło</dt>
+        <dd>Definicja - opis</dd>
+
+        <dt>Hasło</dt>
+        <dd>Definicja - opis</dd>
+    </dl>
+```
+
 ### 3. TABLES
 
 table, tbody, tr, td / th, colspan, rowspan
