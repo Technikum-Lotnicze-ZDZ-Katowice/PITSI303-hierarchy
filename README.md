@@ -21,6 +21,8 @@ table, tbody, tr, td / th, colspan, rowspan
 
 #### ZAD30302 Lists
 
+Utwórz spis treści z zagnieżdrzonymi listami zawiertający trzy rodziaje list.
+
 #### ZAD30303 Table
 
 
