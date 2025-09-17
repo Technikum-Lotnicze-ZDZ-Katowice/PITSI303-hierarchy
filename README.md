@@ -13,6 +13,21 @@ li, ul, ol, dl
 
 table, tbody, tr, td / th, colspan, rowspan
 
+```html
+<table>
+    <tr>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+    </tr>
+</table>
+```
+
 ### 4. CSS - kaskadowość, grupowanie, dziedziczenie
 ---
 ### 5. ZADANIA
